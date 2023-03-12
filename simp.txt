@@ -1,1 +1,2 @@
 hi this is the very first file in this local repository,
+this is the added line. (amendment)
